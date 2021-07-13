@@ -16,7 +16,7 @@ This list of conventions will be seperated by language and topic
 This will contain a list of how I like to do things related to GitHub
 
 1. Always include a README.md, .gitignore, and LICENSE.
-2. Commit prefixes should follow [@frissyn](https://github.com/@frissyn)'s prefixes: https://github.com/frissyn/commit-prefixes (I almost never follow this however lol)
+2. Commit prefixes should follow [@frissyn](https://github.com/frissyn)'s prefixes: https://github.com/frissyn/commit-prefixes (I almost never follow this however lol)
 3. Always include a description, topics, and check the required "Include in home page" boxes for the GitHub settings
 4. In terms of a `.github` folder, I have never made one so I have no conventions related to that
 5. Not exactly a GitHub thing but follow these guidelines for READMEs
