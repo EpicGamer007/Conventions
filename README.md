@@ -41,8 +41,8 @@ This is a list of conventions I use for ALL coding regardless of what language
 
 ## Java
 
-* Use the latest OpenJDK/AdoptOpenJDK LTS release of java (As of July 2021, Java 11. Switch to Java 17 expected to be released on September 2021)
-* Use Eclipse/Intellij for Java. Stronger machines should prefer intellij for its modern features but an older pc should prefer eclipse because intellij is much more heavy
+* Use the latest OpenJDK/Adoptium(Formerly AdoptOpenJDK) LTS release of java (As of September 2021, use OpenJDK/Adoptium JDK 17)
+* Use Eclipse/Intellij for Java. Stronger machines should prefer intellij for its modern features but an older pc should prefer eclipse because intellij is much more heavy (However I am likely to use Eclipse because that is what I grew up with)
 * Use Maven over Gradle for build system
 
 ## ECMAScript (JavaScript) and NodeJS
